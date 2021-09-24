@@ -1,7 +1,6 @@
 # Assignment_Artivatic
 Helping bank by predicting the probability that a member will default.   
-# Flight-Price-Prediction
-### Flight-Price-Prediction
+### Loan_Default_Prediction
 
 1. [Problem Statement ](#PROBLEM)
 2. [File Descriptions](#files)
