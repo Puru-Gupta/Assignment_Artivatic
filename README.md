@@ -35,7 +35,8 @@ The main findings of the code can be found below
 1 - Logistic Regression<br>
 2 - Random Forest Classification<br>
 3 - XGBoost<br>
-4 - Deep neral network Tensorflow 2.0
+4 - Decision Tree Classifier
+5 - Deep neral network Tensorflow 2.0
 
 * Metric - ROC_AUC used for selecting Model
 
