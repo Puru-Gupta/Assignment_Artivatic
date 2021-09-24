@@ -74,7 +74,3 @@ A total of 5 different models were used for prediction cross validation were the
 - Based on AUC value, it can be observed that the Deep learning with keras tensorflow model have the highest variability Explained.<br>
 ![image](https://user-images.githubusercontent.com/55012359/134721209-58c6d3fc-cd6e-4ff9-b7bd-43b42ce51901.png)
 
-
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-
-Credited to Kaggle for availability of the data. You can find the License for the data and other descriptive information in the Kaggle available 
