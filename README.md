@@ -41,13 +41,17 @@ The main findings of the code can be found below
 * Metric - ROC_AUC used for selecting Model
 
 ## 4. Results
-**Deep learning with keras tensorflow_AUC   =0.96**<br>
-**RandomForest_AUC        = 0.922**<br>
-**XGBoost_AUC             = 0.905**<br>
-**Logistic_Regression_AUC = 0.88**<br>
-**DTClassifier            = 0.87**
+**Deep learning with keras tensorflow_AUC   =0.91**<br>
+**RandomForest_AUC        = 0.90**<br>
+**XGBoost_AUC             = 0.92**<br>
+**Logistic_Regression_AUC = 0.85**<br>
+**DTClassifier            = 0.75**
 
 Final Model uswed for prediction is Deep learning with keras tensorflow
+
+#### Feature Importance plot
+![image](https://user-images.githubusercontent.com/55012359/134812559-f2484074-78eb-4f5a-8512-d3b708c96898.png)
+
 
 #### Feature correlation
 ![Feature correlation]
@@ -65,12 +69,11 @@ Final Model uswed for prediction is Deep learning with keras tensorflow
 ## Data Modelling
 A total of 5 different models were used for prediction cross validation were the primary metrics used for evaluating the models. 
 
-**Deep learning with keras tensorflow_AUC   =0.96**<br>
-**RandomForest_AUC        = 0.922**<br>
-**XGBoost_AUC             = 0.905**<br>
-**Logistic_Regression_AUC = 0.88**<br>
-**DTClassifier            = 0.87**
+**Deep learning with keras tensorflow_AUC   =0.91**<br>
+**RandomForest_AUC        = 0.90**<br>
+**XGBoost_AUC             = 0.92**<br>
+**Logistic_Regression_AUC = 0.85**<br>
+**DTClassifier            = 0.75**
 
 - Based on AUC value, it can be observed that the Deep learning with keras tensorflow model have the highest variability Explained.<br>
-![image](https://user-images.githubusercontent.com/55012359/134721209-58c6d3fc-cd6e-4ff9-b7bd-43b42ce51901.png)
-
+![image](https://user-images.githubusercontent.com/55012359/134812597-d10a173b-5e91-4c07-83f6-4bbf2abfa009.png)
